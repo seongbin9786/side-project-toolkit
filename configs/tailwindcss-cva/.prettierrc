@@ -1,0 +1,6 @@
+{
+  "tailwindFunctions": ["clsx", "cn", "twmerge", "cva"],
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ]
+}
